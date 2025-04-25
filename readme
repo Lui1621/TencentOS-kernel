@@ -1,5 +1,6 @@
-TencentOS Server kernel源代码已经移到OpenCloudOS社区维护, OpenCloudOS kernel是TencentOS Server kernel镜像输出的稳定社区版本.
-https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel
+TencentOS Server Kernel源码迁移至OpenCloudOS社区
+自2023年7月13日起，腾讯OS Server内核源码已迁移至OpenCloudOS社区进行维护。OpenCloudOS内核现已成为腾讯OS Server内核的稳定社区版本。
 
----
-Jul 13, 2023
+更多详情，请访问OpenCloudOS内核仓库：
+OpenCloudOS内核在Gitee上的页面
+
